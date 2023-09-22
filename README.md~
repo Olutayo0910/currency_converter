@@ -29,7 +29,7 @@ c. Run the application
 
 python currency-converter.py
 
-## Usage
+#Usage
 
 Launch the application.
 
@@ -41,18 +41,16 @@ Enter the amount you want to convert in the input field.
 
 Click the "Convert" button to see the converted amount.
 
-## Dependencies
+#Dependencies
 
 Python 3.x
 Tkinter (usually included with Python)
 requests
 
-## License
-
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
+#Acknowledgments
 Currency exchange rate data provided by RapidAPI.
 
 You can replace `"yourusername"` in the clone URL with your actual GitHub username if you plan to host the project on GitHub. This README provides an overview of your project, how to install and use it, its dependencies, license, and any acknowledgments. Feel free to customize it further as needed.
